@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head lang="zh-cn">
 <meta charset="utf-8"/>
 <title>我的小地方</title>
